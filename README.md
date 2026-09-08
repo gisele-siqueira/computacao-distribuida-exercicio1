@@ -67,4 +67,4 @@ A implementação está disponível em:
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/gisele-siqueira/computacao-distribuida-exercicio1.git
